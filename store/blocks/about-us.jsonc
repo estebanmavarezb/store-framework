@@ -56,7 +56,7 @@
         "rich-text#1"
       ],
       "props":{
-        "taId": "majorAppliances"
+        "taId": "majorAppliance"
       }
     },
 
