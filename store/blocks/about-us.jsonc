@@ -65,8 +65,8 @@
   },
   "tab-list.item#2": {
       "props": {
-          "tabId": "instagram",
-          "label": "Instagram"
+          "tabId": "electronics",
+          "label": "Electronics"
       }
   },
   "tab-content.item#1": {
@@ -120,8 +120,8 @@
   },
   "tab-list.item#home2": {
       "props": {
-          "tabId": "electronics",
-          "label": "Electronics"
+          "tabId": "instagram",
+          "label": "Instagram"
       }
   },
   "tab-content#home": {
